@@ -42,7 +42,7 @@ Martín Valenzuela
 - Adobe Photoshop
 
 # Projects portfolio
-- http://lumacomercial.com/ (Laravel)
+- http://lumacomercial.com/ The project is made in laravel with Bootstrap and JQuery.
 - https://teloapuesto.mx .- The backend is made in Laravel, and the frontend in NuxtJS with Vuetify CSS. "TeLoApuesto" is a platform form online bets on tv series.
 - https://gplogics.org .- The backend is made in Laravel and the frontend in NuxtJS with Vuetify CSS. "GPLogics" is an institutional spa for marketing.
 - https://govita.pro .- The backend is made in Laravel and the frontend in NuxtJS with Vuetify CSS. "GoVita" is an institutional spa for merketing of a web and mobile app.
