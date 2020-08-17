@@ -1,4 +1,4 @@
-Martín Valenzuela
+<!-- Martín Valenzuela
 
 # Skills
 ### Programming Lenguages 
@@ -39,7 +39,7 @@ Martín Valenzuela
 
 ### other skills
 - Adobe Illustrator
-- Adobe Photoshop
+- Adobe Photoshop -->
 
 # Projects portfolio
 - http://lumacomercial.com/ The project is made in laravel with Bootstrap and JQuery.
