@@ -4,21 +4,20 @@ Martín Valenzuela
 ### Programming Lenguages 
 - PHP
 - Javascript
-- CSS
-- HTML
-- C#
+- Typescript
+- Dart
 
-### Programmin Frameworks
-- Codeigniter
+### Frontend Frameworks
 - Laravel
 - VueJS
 - NuxtJS
 - Quasar
 - ReactJS
+- NextJS
 
 ### Mobile Development
 - React Native
-- Quasar with Cordova
+- Flutter
 
 ### Design Frameworks
 - Bootstrap
@@ -30,24 +29,21 @@ Martín Valenzuela
 - SQL Server
 - MySQL
 - Firebase
+- Postgresql
+- MongoDB
 
-### Server providers
+### Cloud Providers
 - Digital Ocean
 - Google Cloud
-- UpCloud
-- Hostinger
+- AWS
+- Vercel
 
 ### other skills
 - Adobe Illustrator
 - Adobe Photoshop
 
-# Projects portfolio
-- http://lumacomercial.com/ The project is made in laravel with Bootstrap and JQuery.
-- https://teloapuesto.mx .- The backend is made in Laravel, and the frontend in NuxtJS with Vuetify CSS. "TeLoApuesto" is a platform form online bets on tv series.
-- https://gplogics.org .- The backend is made in Laravel and the frontend in NuxtJS with Vuetify CSS. "GPLogics" is an institutional spa for marketing.
-- https://govita.pro .- The backend is made in Laravel and the frontend in NuxtJS with Vuetify CSS. "GoVita" is an institutional spa for merketing of a web and mobile app.
-- https://escuela-virtual.net .- The backend is made in Laravel and the frontend in QuasarJS. It's a platform for school management and keep track of students payments and schedules. 
+# Latest Projects
+- PacoelChato. https://pacoelchato.com. Is a e-learning platform. The project is created in NextJS and MySQL
 - http://emporiolegal.org .- The backend is made in Laravel and the frontend in QuasarJS. It's a CRM for the company Emporio Legal, which keeps track of customers, payments and services.
-- https://aquiles-serdan.com .- The backend is made in Laravel and the frontend in QuasarJS. It's a website to manage finances in the city hall of Aquiles Serdan.
-- http://mgarq.com.mx .- The project is made in Laravel and it uses JQuery for the logic part. It uses Bootstrap as CSS. It's a marketing website for an architect brand.
 - https://bodegadelibros.mx .- The backend is made in Laravel, and the frontend in NuxtJS with Vuetify CSS. It's an Ecommerce website for the "Bodega de Libros" company.
+- https://www.sushibento.mx .- Is a food restaurant ordering web-app made in NextJS and ExpressJS with Postgresql.
